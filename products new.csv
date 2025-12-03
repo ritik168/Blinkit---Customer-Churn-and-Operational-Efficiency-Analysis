@@ -1,0 +1,201 @@
+ProductID,ProductName,Category,SubCategory,Price,CostPrice
+P0001,Fugit Grocery,Grocery,Fruit,409.01,290.26
+P0002,Ullam Meat,Meat,Salt,478.19,274.39
+P0003,A Personal Care,Personal Care,Fruit,27.57,19.37
+P0004,Quaerat Vegetables,Vegetables,Oral Care,101.47,76.13
+P0005,Consectetur Grocery,Grocery,Bread,168.41,112.16
+P0006,Nobis Grocery,Grocery,Oral Care,549.08,348.56
+P0007,Provident Personal Care,Personal Care,Milk,416.37,293.07
+P0008,Quibusdam Bakery,Bakery,Milk,223.46,122.01
+P0009,Ea Meat,Meat,Bread,475.89,319.63
+P0010,Libero Meat,Meat,Poultry,514.44,323.57
+P0011,Harum Personal Care,Personal Care,Salt,216.91,157.06
+P0012,Dolor Fruits,Fruits,Poultry,497.52,254.95
+P0013,Hic Personal Care,Personal Care,Oral Care,141.68,88.61
+P0014,Ratione Personal Care,Personal Care,Poultry,520.3,275.15
+P0015,Dolore Beverages,Beverages,Oral Care,356.28,186.76
+P0016,Corporis Beverages,Beverages,Bread,34.47,18.87
+P0017,Ratione Dairy,Dairy,Milk,174.46,127.17
+P0018,Illo Vegetables,Vegetables,Noodles,278.04,206.24
+P0019,Sint Grocery,Grocery,Soft Drink,320.63,250.32
+P0020,Labore Beverages,Beverages,Poultry,377.41,233.43
+P0021,Aut Grocery,Grocery,Soft Drink,290.75,184.42
+P0022,Voluptatibus Grocery,Grocery,Tea,343.21,272.35
+P0023,Occaecati Dairy,Dairy,Fruit,444.86,349.7
+P0024,Ad Meat,Meat,Oral Care,283.22,157.07
+P0025,Vero Bakery,Bakery,Soft Drink,209.5,163.24
+P0026,Cupiditate Fruits,Fruits,Salt,526.93,345.39
+P0027,Aliquid Meat,Meat,Soft Drink,344.79,219.74
+P0028,Ipsum Fruits,Fruits,Oral Care,370.0,264.92
+P0029,Voluptatibus Instant Food,Instant Food,Soft Drink,54.7,38.55
+P0030,Aliquam Vegetables,Vegetables,Poultry,519.2,351.45
+P0031,Accusantium Grocery,Grocery,Milk,365.5,292.26
+P0032,Aspernatur Beverages,Beverages,Oral Care,434.51,325.31
+P0033,Mollitia Dairy,Dairy,Bread,62.77,45.71
+P0034,Voluptate Dairy,Dairy,Poultry,379.93,191.55
+P0035,Libero Dairy,Dairy,Oral Care,427.56,241.3
+P0036,Impedit Dairy,Dairy,Oral Care,160.41,110.96
+P0037,Sint Grocery,Grocery,Salt,142.32,84.02
+P0038,Animi Personal Care,Personal Care,Soft Drink,162.92,109.07
+P0039,Praesentium Dairy,Dairy,Oral Care,498.62,301.82
+P0040,Ab Personal Care,Personal Care,Milk,177.49,114.43
+P0041,Ut Bakery,Bakery,Root,500.86,337.26
+P0042,Ullam Beverages,Beverages,Poultry,313.18,223.38
+P0043,Corporis Meat,Meat,Bread,392.36,290.23
+P0044,Sint Bakery,Bakery,Milk,391.56,312.33
+P0045,Ipsa Vegetables,Vegetables,Fruit,79.84,59.51
+P0046,Perferendis Vegetables,Vegetables,Oral Care,499.38,359.86
+P0047,Voluptatem Instant Food,Instant Food,Salt,316.43,190.96
+P0048,Voluptatum Dairy,Dairy,Noodles,449.27,273.13
+P0049,Tempora Personal Care,Personal Care,Soft Drink,524.2,328.97
+P0050,Quasi Meat,Meat,Salt,430.99,264.84
+P0051,Amet Instant Food,Instant Food,Soft Drink,516.1,267.59
+P0052,Accusamus Grocery,Grocery,Soft Drink,591.27,392.93
+P0053,Officiis Fruits,Fruits,Milk,329.99,192.93
+P0054,Excepturi Instant Food,Instant Food,Soft Drink,297.52,213.42
+P0055,Porro Grocery,Grocery,Bread,146.64,89.43
+P0056,Nisi Meat,Meat,Fruit,516.74,271.56
+P0057,Rem Bakery,Bakery,Fruit,185.42,97.16
+P0058,Rem Dairy,Dairy,Oral Care,451.98,340.62
+P0059,Itaque Personal Care,Personal Care,Milk,114.52,65.26
+P0060,Enim Instant Food,Instant Food,Milk,327.36,242.69
+P0061,Quas Grocery,Grocery,Salt,164.97,91.58
+P0062,Eligendi Personal Care,Personal Care,Salt,354.7,195.37
+P0063,Labore Grocery,Grocery,Tea,397.44,309.91
+P0064,Exercitationem Dairy,Dairy,Milk,181.82,122.75
+P0065,Facere Dairy,Dairy,Bread,62.97,42.05
+P0066,Voluptates Personal Care,Personal Care,Oral Care,318.12,238.12
+P0067,Accusamus Fruits,Fruits,Root,74.72,52.27
+P0068,In Fruits,Fruits,Oral Care,368.39,275.95
+P0069,Assumenda Vegetables,Vegetables,Root,53.5,38.39
+P0070,Nihil Grocery,Grocery,Milk,586.6,306.63
+P0071,Harum Bakery,Bakery,Bread,146.86,107.93
+P0072,Adipisci Instant Food,Instant Food,Poultry,582.19,319.18
+P0073,Sequi Instant Food,Instant Food,Oral Care,171.9,95.17
+P0074,Facere Beverages,Beverages,Fruit,282.73,221.02
+P0075,Beatae Beverages,Beverages,Milk,269.25,197.88
+P0076,Occaecati Fruits,Fruits,Tea,313.94,248.27
+P0077,Minus Instant Food,Instant Food,Soft Drink,141.31,92.3
+P0078,Maiores Bakery,Bakery,Root,259.24,193.42
+P0079,Labore Vegetables,Vegetables,Poultry,74.97,38.03
+P0080,Sed Personal Care,Personal Care,Oral Care,562.55,388.96
+P0081,Tempore Personal Care,Personal Care,Soft Drink,580.49,447.34
+P0082,Architecto Fruits,Fruits,Fruit,71.82,51.71
+P0083,Ex Personal Care,Personal Care,Salt,160.78,81.14
+P0084,Alias Grocery,Grocery,Milk,216.64,124.64
+P0085,Repellendus Grocery,Grocery,Soft Drink,521.62,266.33
+P0086,Quam Beverages,Beverages,Poultry,382.17,243.64
+P0087,Ab Bakery,Bakery,Tea,523.1,362.53
+P0088,Incidunt Personal Care,Personal Care,Tea,120.47,91.99
+P0089,Voluptatem Grocery,Grocery,Bread,535.94,284.99
+P0090,Veniam Instant Food,Instant Food,Oral Care,281.38,190.97
+P0091,Repellendus Bakery,Bakery,Oral Care,66.57,52.46
+P0092,Consectetur Dairy,Dairy,Salt,410.4,231.14
+P0093,Repudiandae Grocery,Grocery,Tea,524.41,335.73
+P0094,Placeat Bakery,Bakery,Milk,239.61,153.72
+P0095,Vitae Meat,Meat,Poultry,402.16,279.13
+P0096,Quae Instant Food,Instant Food,Tea,501.09,384.77
+P0097,Nemo Grocery,Grocery,Bread,181.76,132.35
+P0098,Maiores Instant Food,Instant Food,Fruit,246.17,152.08
+P0099,Tempore Grocery,Grocery,Noodles,122.28,94.06
+P0100,Laborum Bakery,Bakery,Milk,170.87,110.94
+P0101,Temporibus Fruits,Fruits,Soft Drink,251.11,183.78
+P0102,Suscipit Dairy,Dairy,Tea,156.97,81.33
+P0103,Amet Beverages,Beverages,Salt,12.08,8.94
+P0104,Repellat Dairy,Dairy,Tea,342.08,179.87
+P0105,Eligendi Vegetables,Vegetables,Root,215.98,164.79
+P0106,Officia Beverages,Beverages,Milk,64.16,50.45
+P0107,Repellat Meat,Meat,Poultry,318.81,206.74
+P0108,Dolorum Bakery,Bakery,Bread,128.73,71.34
+P0109,Velit Bakery,Bakery,Salt,415.03,329.82
+P0110,Sit Beverages,Beverages,Bread,114.53,60.21
+P0111,Sint Bakery,Bakery,Root,578.02,404.4
+P0112,Mollitia Dairy,Dairy,Noodles,423.38,302.13
+P0113,Cumque Grocery,Grocery,Salt,347.57,218.85
+P0114,Dolore Personal Care,Personal Care,Poultry,352.5,228.14
+P0115,Perferendis Grocery,Grocery,Milk,590.53,303.0
+P0116,Beatae Personal Care,Personal Care,Noodles,86.56,62.72
+P0117,Amet Bakery,Bakery,Salt,399.85,279.61
+P0118,Incidunt Dairy,Dairy,Bread,199.52,129.22
+P0119,Odit Vegetables,Vegetables,Fruit,184.94,129.02
+P0120,Blanditiis Fruits,Fruits,Soft Drink,177.82,137.16
+P0121,Cum Vegetables,Vegetables,Milk,491.35,350.25
+P0122,Natus Grocery,Grocery,Salt,324.25,238.75
+P0123,Quasi Beverages,Beverages,Bread,100.49,76.45
+P0124,Eum Vegetables,Vegetables,Noodles,483.43,260.24
+P0125,Iure Dairy,Dairy,Fruit,258.01,140.4
+P0126,Optio Vegetables,Vegetables,Poultry,478.08,330.17
+P0127,Totam Meat,Meat,Soft Drink,290.85,170.9
+P0128,Explicabo Personal Care,Personal Care,Root,544.24,322.05
+P0129,Ipsam Beverages,Beverages,Root,273.78,158.88
+P0130,Tenetur Dairy,Dairy,Bread,471.59,373.89
+P0131,Eum Instant Food,Instant Food,Milk,334.29,223.09
+P0132,Ipsa Grocery,Grocery,Fruit,504.41,310.07
+P0133,Quod Grocery,Grocery,Noodles,346.74,274.13
+P0134,Est Fruits,Fruits,Tea,317.66,191.43
+P0135,Sequi Bakery,Bakery,Noodles,529.51,407.34
+P0136,Enim Bakery,Bakery,Noodles,226.1,180.77
+P0137,Quo Vegetables,Vegetables,Tea,48.56,37.51
+P0138,Facere Fruits,Fruits,Milk,400.8,305.68
+P0139,Quibusdam Vegetables,Vegetables,Poultry,507.54,396.97
+P0140,Alias Beverages,Beverages,Tea,28.02,21.09
+P0141,Quam Vegetables,Vegetables,Milk,306.72,174.53
+P0142,Distinctio Vegetables,Vegetables,Milk,303.12,177.19
+P0143,Illo Bakery,Bakery,Root,194.05,109.69
+P0144,A Beverages,Beverages,Tea,254.25,172.62
+P0145,Deserunt Grocery,Grocery,Milk,259.84,180.94
+P0146,Officia Instant Food,Instant Food,Tea,294.49,169.83
+P0147,Ipsam Personal Care,Personal Care,Oral Care,561.52,288.75
+P0148,Deleniti Vegetables,Vegetables,Milk,96.04,63.94
+P0149,Harum Personal Care,Personal Care,Soft Drink,477.67,274.12
+P0150,Quae Beverages,Beverages,Soft Drink,251.01,128.95
+P0151,Eum Meat,Meat,Oral Care,500.53,308.49
+P0152,Unde Dairy,Dairy,Salt,373.01,218.68
+P0153,Rem Beverages,Beverages,Fruit,416.39,322.06
+P0154,Modi Personal Care,Personal Care,Soft Drink,207.17,114.42
+P0155,Corrupti Grocery,Grocery,Noodles,325.81,186.24
+P0156,Occaecati Instant Food,Instant Food,Bread,169.31,113.12
+P0157,Rerum Vegetables,Vegetables,Tea,117.69,82.16
+P0158,Est Instant Food,Instant Food,Tea,63.81,47.83
+P0159,Debitis Beverages,Beverages,Noodles,473.08,347.67
+P0160,Non Meat,Meat,Bread,312.31,160.59
+P0161,Fugiat Vegetables,Vegetables,Poultry,254.55,132.16
+P0162,Tempore Personal Care,Personal Care,Fruit,80.7,47.87
+P0163,Dolorem Beverages,Beverages,Soft Drink,240.44,165.24
+P0164,Fugiat Grocery,Grocery,Salt,216.61,119.21
+P0165,Deleniti Fruits,Fruits,Salt,256.81,177.2
+P0166,Unde Meat,Meat,Bread,300.35,172.06
+P0167,Ut Vegetables,Vegetables,Salt,265.03,145.15
+P0168,Ipsam Instant Food,Instant Food,Poultry,417.68,283.43
+P0169,Adipisci Vegetables,Vegetables,Fruit,251.02,193.85
+P0170,Veniam Personal Care,Personal Care,Poultry,359.24,209.51
+P0171,Aliquam Personal Care,Personal Care,Oral Care,250.72,172.26
+P0172,Illum Meat,Meat,Bread,292.58,222.85
+P0173,Laboriosam Dairy,Dairy,Bread,336.58,188.64
+P0174,Blanditiis Dairy,Dairy,Poultry,270.27,170.79
+P0175,Beatae Instant Food,Instant Food,Oral Care,123.39,77.94
+P0176,Veritatis Meat,Meat,Tea,250.73,135.82
+P0177,Tempore Personal Care,Personal Care,Fruit,328.46,168.54
+P0178,Repellat Fruits,Fruits,Oral Care,268.6,182.66
+P0179,Earum Instant Food,Instant Food,Oral Care,115.48,85.35
+P0180,Voluptatem Beverages,Beverages,Milk,47.57,31.07
+P0181,Fugit Dairy,Dairy,Bread,137.94,99.37
+P0182,Facere Fruits,Fruits,Root,66.9,47.14
+P0183,Cupiditate Dairy,Dairy,Noodles,253.2,176.21
+P0184,Repellat Personal Care,Personal Care,Root,428.53,216.62
+P0185,Non Fruits,Fruits,Milk,279.65,179.72
+P0186,Officia Fruits,Fruits,Bread,101.22,57.47
+P0187,Soluta Beverages,Beverages,Tea,281.72,148.1
+P0188,Saepe Dairy,Dairy,Poultry,320.71,254.34
+P0189,Laudantium Personal Care,Personal Care,Tea,458.99,356.59
+P0190,Libero Fruits,Fruits,Tea,554.5,401.86
+P0191,Quibusdam Instant Food,Instant Food,Salt,129.56,73.36
+P0192,Facilis Beverages,Beverages,Fruit,587.12,452.69
+P0193,Necessitatibus Personal Care,Personal Care,Bread,489.97,313.66
+P0194,Necessitatibus Grocery,Grocery,Oral Care,548.36,376.49
+P0195,Assumenda Grocery,Grocery,Milk,512.77,300.52
+P0196,Quisquam Bakery,Bakery,Bread,226.95,116.9
+P0197,Cumque Vegetables,Vegetables,Noodles,511.01,329.74
+P0198,Natus Bakery,Bakery,Soft Drink,79.79,51.46
+P0199,Corporis Fruits,Fruits,Root,568.56,379.39
+P0200,Magnam Grocery,Grocery,Soft Drink,378.2,262.51
