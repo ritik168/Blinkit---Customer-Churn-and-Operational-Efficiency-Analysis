@@ -25,14 +25,14 @@ The problem statement for this assignment can be found in the above pdf. It outl
 
 . Blinkit_DA_Ritik Kumar.pdf: A PDF report containing an in-depth analysis of the findings and business recommendations.
 
-# Key Queries and Insights.
+#  📊 Key Queries and Insights.
 
 
-In the queries.sql file, you will find SQL queries designed to extract and analyze key business metrics. These queries were used to:
+. In the queries.sql file, you will find SQL queries designed to extract and analyze key business metrics. These queries were used to:
 
-.Analyze customer behaviour, including churn rate and sales trends.
+. Analyze customer behaviour, including churn rate and sales trends.
 
-.Optimize performance with advanced SQL techniques like joins, aggregations, and subqueries.
+. Optimize performance with advanced SQL techniques like joins, aggregations, and subqueries.
 
 # How to Use
 
@@ -42,7 +42,10 @@ In the queries.sql file, you will find SQL queries designed to extract and analy
 
 . Review the results and insights in the Blinkit_DA_SauravSharma.pdf.
 
-# Technologies Used
-SQL (MySQL)
-Data analysis techniques (aggregation, joins, etc.)
-Report generation tools (MS Word)
+#  🛠  Technologies Used
+
+. SQL (MySQL)
+
+. Data analysis techniques (aggregation, joins, etc.)
+
+. Report generation tools (MS Word)
