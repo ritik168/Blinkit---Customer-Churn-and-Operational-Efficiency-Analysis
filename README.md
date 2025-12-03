@@ -12,11 +12,11 @@ bottlenecks, and strategies for business growth.
 
 This project showcases my work on a SQL-based data analysis problem from Blinkit, where I applied SQL queries to solve various business and data problems. The goal was to extract meaningful insights from a dataset, focusing on sales, customer behaviour, and operational metrics.
 
-# Problem Statement
+# 🛠️ Problem Statement
 
 The problem statement for this assignment can be found in the above pdf. It outlines various data analysis tasks that require writing SQL queries to extract and analyze business-critical metrics.
 
-# Files in this Repository
+# 🗂️ Files in this Repository
 
 
 . Blinkit Data Analyst Assignment.pdf: The problem statement for the SQL assignment.
