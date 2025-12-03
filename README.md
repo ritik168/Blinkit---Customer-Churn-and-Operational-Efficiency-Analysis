@@ -16,14 +16,18 @@ This project showcases my work on a SQL-based data analysis problem from Blinkit
 
 The problem statement for this assignment can be found in the above pdf. It outlines various data analysis tasks that require writing SQL queries to extract and analyze business-critical metrics.
 
+
 # 🗂️ Files in this Repository
 
 
 . Blinkit Data Analyst Assignment.pdf: The problem statement for the SQL assignment.
 
-. queries.sql: A folder containing the SQL queries I wrote to solve the problem. It includes both basic queries and optimized versions for efficiency
+. queries.sql: A folder containing the SQL queries I wrote to solve the problem. 
+
+. It includes both basic queries and optimized versions for efficiency
 
 . Blinkit_DA_Ritik Kumar.pdf: A PDF report containing an in-depth analysis of the findings and business recommendations.
+
 
 #  📊 Key Queries and Insights.
 
